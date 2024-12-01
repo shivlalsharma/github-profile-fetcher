@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile Fetcher</title>
+    <link rel="shortcut icon" href="./logo.png" type="image/png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Fetch GitHub Profile</h2>
+        <form id="search-form">
+            <input type="text" id="username" placeholder="Search a GitHub Username...">
+        </form>
+        <div class="main-content">
+            <div class="loading" id="loading">
+                <img src="./Loading.gif" alt="Loading..." style="width: 50px; height: 50px;">
+            </div>
+            <div class="card" id="card"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
