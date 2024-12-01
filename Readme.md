@@ -7,7 +7,7 @@ GitHub Profile Fetcher is a web application that allows users to search and disp
 
 ## Deployment
 
-This GitHub Profile Fecher is live and accessible online. You can try it out here: [Fetch Github Profile](https://github-profile-fetching.netlify.app/)
+This GitHub Profile Fetcher is live and accessible online. You can try it out here: [Fetch Github Profile](https://github-profile-fetching.netlify.app/)
 
 ---
 
@@ -46,7 +46,7 @@ This GitHub Profile Fecher is live and accessible online. You can try it out her
 
 ## Installation
 
-follow these steps to run the Tic Tac Toe locally:
+follow these steps to run the GitHub Profile Fetcher locally:
 
 1. **Clone the repository**:
     ```bash
@@ -56,7 +56,7 @@ follow these steps to run the Tic Tac Toe locally:
 
 2. **Open the `index.html` file in your browser**.
 
-   Alternatively, you can set up a local server (e.g., using **VS Code Live Server**) to view the game in your browser.
+   Alternatively, you can set up a local server (e.g., using **VS Code Live Server**) to view the project in your browser.
 
 ## License
 
